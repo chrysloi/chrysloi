@@ -22,7 +22,7 @@
 [![shell](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/chrysloi)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/chrysloi)
+<!-- [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/chrysloi) -->
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/chrysloi)
 [![React-Nnative](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/chrysloi)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/chrysloi)
